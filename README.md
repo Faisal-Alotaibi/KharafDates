@@ -23,3 +23,5 @@ To contribute to this project, please contact the project owner via email at fai
 
 ## Dataset
 Dataset was obtained from the following authors: https://ieee-dataport.org/open-access/tu-dg-dataset-date-grading
+License:
+Creative Commons Attribution
