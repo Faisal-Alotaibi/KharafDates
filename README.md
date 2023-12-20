@@ -15,7 +15,7 @@ Kharaf is an Image Classification project designed to assist in the classificati
 
 Run Sequence: Splitting.ipynb --> DatesClassification.ipynb 
 
-Deployment: App.py
+## Deployment: Run app.py
 Currently, the project is undergoing deployment. Instructions on how to use the project, including installation steps, training the CNN models, running the web application, and utilizing the image classification and disease detection features will be provided once the deployment phase is completed.
 
 ## Contributing
